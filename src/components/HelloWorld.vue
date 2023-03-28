@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Nama Saya Putri Syakira Wirdiani, Biasa dipanggil Syakira, lahir di taram 27 Juli 2003, besar di pekanbaru dan senang berkomunikasi atau bekerjasama dalam tim
+      Nama Saya Putri Syakira Wirdiani, Biasa dipanggil Syakira, lahir di taram 27 Juli 2003, besar di pekanbaru dan senang menjadi warga berkebangsaan indonesia
     </h3>
   </div>
 </template>
