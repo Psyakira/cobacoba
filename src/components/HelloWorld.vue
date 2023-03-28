@@ -11,9 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      AKU PUTRI SYAKIRA , PANGGIL KIRA
-      <a href="https://instagram.com/Psyakira_w" target="_blank" rel="noopener">My ig</a> +
-      <a href="https://linkedin.com/putrisyakirawirdiani" target="_blank" rel="noopener">mylinkedin</a>.
+      Nama Saya Putri Syakira Wirdiani, Biasa dipanggil Syakira, lahir di taram 27 Juli 2003, besar di pekanbaru dan senang berkomunikasi atau bekerjasama dalam tim
     </h3>
   </div>
 </template>
