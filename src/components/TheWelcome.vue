@@ -41,7 +41,6 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>This Page</template>
 
-    To Assignment i Programming Web in 4B Class
-    This Page with Love by syakira :D
+    This page make for Assignment Programming Web in 4B Class and make with Love by syakira:)
   </WelcomeItem>
 </template>
