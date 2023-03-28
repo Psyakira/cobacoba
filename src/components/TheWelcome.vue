@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <ToolingIcon />
     </template>
     <template #heading>See me in Linkedin</template>
-    <a href="https://linkedin.com/putrisyakirawirdiani" target="_blank" rel="noopener">Clickhere</a>
+    <a href="https://www.linkedin.com/in/putrisyakirawirdiani/" target="_blank" rel="noopener">Clickhere</a>
   </WelcomeItem>
 
   <WelcomeItem>
